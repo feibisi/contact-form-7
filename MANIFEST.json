@@ -1,0 +1,307 @@
+{
+  "product": "contact-form-7",
+  "blog_id": 66,
+  "written": 49,
+  "skipped": 0,
+  "by_lang": {
+    "zh": 13,
+    "en": 34,
+    "mixed": 2
+  },
+  "docs": [
+    {
+      "slug": "getting-started-with-contact-form-7",
+      "title": "Contact Form 7 联系表单入门",
+      "lang": "zh",
+      "chars": 1905
+    },
+    {
+      "slug": "admin-screen",
+      "title": "管理员画面",
+      "lang": "zh",
+      "chars": 1427
+    },
+    {
+      "slug": "tag-syntax",
+      "title": "标签的工作原理",
+      "lang": "zh",
+      "chars": 1483
+    },
+    {
+      "slug": "editing-form-template",
+      "title": "编辑表单模板",
+      "lang": "zh",
+      "chars": 670
+    },
+    {
+      "slug": "setting-up-mail",
+      "title": "设置邮件",
+      "lang": "zh",
+      "chars": 1846
+    },
+    {
+      "slug": "editing-messages",
+      "title": "Editing messages",
+      "lang": "en",
+      "chars": 1018
+    },
+    {
+      "slug": "additional-settings",
+      "title": "其他设置",
+      "lang": "zh",
+      "chars": 1645
+    },
+    {
+      "slug": "integration-with-external-apis",
+      "title": "与外部 API 集成",
+      "lang": "zh",
+      "chars": 383
+    },
+    {
+      "slug": "text-fields",
+      "title": "文本字段",
+      "lang": "zh",
+      "chars": 5411
+    },
+    {
+      "slug": "number-fields",
+      "title": "Number fields",
+      "lang": "en",
+      "chars": 2865
+    },
+    {
+      "slug": "date-field",
+      "title": "Date field",
+      "lang": "en",
+      "chars": 3403
+    },
+    {
+      "slug": "checkboxes-radio-buttons-and-menus",
+      "title": "Checkboxes, radio buttons, and menus",
+      "lang": "en",
+      "chars": 3839
+    },
+    {
+      "slug": "file-uploading-and-attachment",
+      "title": "File uploading and attachment",
+      "lang": "en",
+      "chars": 4746
+    },
+    {
+      "slug": "really-simple-captcha",
+      "title": "Really Simple CAPTCHA",
+      "lang": "en",
+      "chars": 3684
+    },
+    {
+      "slug": "acceptance-checkbox",
+      "title": "Acceptance checkbox",
+      "lang": "en",
+      "chars": 2999
+    },
+    {
+      "slug": "hidden-field",
+      "title": "Hidden field",
+      "lang": "en",
+      "chars": 786
+    },
+    {
+      "slug": "submit-button",
+      "title": "Submit button",
+      "lang": "en",
+      "chars": 951
+    },
+    {
+      "slug": "max-min-length-options-and-character-count",
+      "title": "Max & min length options and character count",
+      "lang": "en",
+      "chars": 2461
+    },
+    {
+      "slug": "setting-placeholder-text",
+      "title": "Setting placeholder text",
+      "lang": "en",
+      "chars": 1207
+    },
+    {
+      "slug": "getting-default-values-from-the-context",
+      "title": "Getting default values from the context",
+      "lang": "en",
+      "chars": 1769
+    },
+    {
+      "slug": "setting-default-values-to-the-logged-in-user",
+      "title": "Setting default values to the logged-in user",
+      "lang": "en",
+      "chars": 866
+    },
+    {
+      "slug": "getting-default-values-from-shortcode-attributes",
+      "title": "Getting default values from shortcode attributes",
+      "lang": "en",
+      "chars": 1411
+    },
+    {
+      "slug": "sendinblue-integration",
+      "title": "Sendinblue 集成",
+      "lang": "zh",
+      "chars": 3870
+    },
+    {
+      "slug": "recaptcha",
+      "title": "reCAPTCHA (v3) 验证码",
+      "lang": "mixed",
+      "chars": 1577
+    },
+    {
+      "slug": "constant-contact-integration",
+      "title": "Constant Contact 集成",
+      "lang": "mixed",
+      "chars": 5667
+    },
+    {
+      "slug": "stripe-integration",
+      "title": "Stripe 集成",
+      "lang": "zh",
+      "chars": 2236
+    },
+    {
+      "slug": "spam-filtering-with-akismet",
+      "title": "Spam filtering with Akismet",
+      "lang": "en",
+      "chars": 4129
+    },
+    {
+      "slug": "restricting-access-to-the-administration-panel",
+      "title": "Restricting access to the administration panel",
+      "lang": "en",
+      "chars": 1592
+    },
+    {
+      "slug": "custom-layout-for-checkboxes-and-radio-buttons",
+      "title": "Custom layout for checkboxes and radio buttons",
+      "lang": "en",
+      "chars": 982
+    },
+    {
+      "slug": "loading-javascript-and-stylesheet-only-when-it-is-necessary",
+      "title": "Loading JavaScript and stylesheet only when it is necessary",
+      "lang": "en",
+      "chars": 2212
+    },
+    {
+      "slug": "tracking-form-submissions-with-google-analytics",
+      "title": "Tracking form submissions with Google Analytics",
+      "lang": "en",
+      "chars": 2672
+    },
+    {
+      "slug": "locating-response-message-box-anywhere",
+      "title": "Locating response message box anywhere",
+      "lang": "en",
+      "chars": 1035
+    },
+    {
+      "slug": "selectable-recipient-with-pipes",
+      "title": "Selectable recipient with pipes",
+      "lang": "en",
+      "chars": 2011
+    },
+    {
+      "slug": "adding-cc-bcc-and-other-mail-headers",
+      "title": "Adding Cc, Bcc and other mail headers",
+      "lang": "en",
+      "chars": 424
+    },
+    {
+      "slug": "contact-form-in-your-language",
+      "title": "Contact form in your language",
+      "lang": "en",
+      "chars": 1383
+    },
+    {
+      "slug": "special-mail-tags",
+      "title": "Special mail-tags",
+      "lang": "en",
+      "chars": 3925
+    },
+    {
+      "slug": "controlling-behavior-by-setting-constants",
+      "title": "Controlling behavior by setting constants",
+      "lang": "en",
+      "chars": 2758
+    },
+    {
+      "slug": "redirecting-to-another-url-after-submissions",
+      "title": "Redirecting to another URL after submissions",
+      "lang": "en",
+      "chars": 1570
+    },
+    {
+      "slug": "disallowed-list-formerly-known-as-comment-blacklist",
+      "title": "Disallowed list (formerly known as “Comment blacklist”)",
+      "lang": "en",
+      "chars": 1113
+    },
+    {
+      "slug": "save-submitted-messages-with-flamingo",
+      "title": "Save submitted messages with Flamingo",
+      "lang": "en",
+      "chars": 1618
+    },
+    {
+      "slug": "styling-contact-form",
+      "title": "Styling contact form",
+      "lang": "en",
+      "chars": 4979
+    },
+    {
+      "slug": "customizing-validation-error-messages",
+      "title": "Customizing validation error messages",
+      "lang": "en",
+      "chars": 2808
+    },
+    {
+      "slug": "managing-long-lists-with-listo",
+      "title": "Managing long lists with Listo",
+      "lang": "en",
+      "chars": 15564
+    },
+    {
+      "slug": "best-practice-to-set-up-mail",
+      "title": "Best practice to set up mail",
+      "lang": "en",
+      "chars": 3733
+    },
+    {
+      "slug": "translating-contact-form-7",
+      "title": "Translating Contact Form 7",
+      "lang": "en",
+      "chars": 1259
+    },
+    {
+      "slug": "dom-events",
+      "title": "DOM events",
+      "lang": "en",
+      "chars": 3519
+    },
+    {
+      "slug": "configuration-errors",
+      "title": "如何解决配置错误",
+      "lang": "zh",
+      "chars": 1396
+    },
+    {
+      "slug": "why-isnt-my-ajax-contact-form-working-correctly",
+      "title": "为什么我的 AJAX 联系表单不能正常工作？",
+      "lang": "zh",
+      "chars": 708
+    },
+    {
+      "slug": "jetpack-overrides-contact-forms",
+      "title": "Jetpack 覆盖联系表单",
+      "lang": "zh",
+      "chars": 1017
+    }
+  ]
+}
