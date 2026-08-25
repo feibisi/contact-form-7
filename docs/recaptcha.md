@@ -19,23 +19,23 @@ reCAPTCHA API 的最新版本是 v3。联系表格 7 5.1 及更高版本使用�
 #### 注册网站
 
 要开始使用 reCAPTCHA，您首先需要注册 WordPress 站点。reCAPTCHA 是 Google 的服务，因此您需要一个 Google 帐户才能使用它。使用该帐户登录 Google，然后转到[我的 reCAPTCHA](https://www.google.com/recaptcha/admin)页面。您将看到一个简单的注册表，如下所示：
-![我的 reCAPTCHA 页面的屏幕截图](images/screenshot-recaptcha-1-991x1024.webp)
+![我的 reCAPTCHA 页面的屏幕截图](/_images/screenshot-recaptcha-1-991x1024.webp)
 
 我的 reCAPTCHA 页面
 
 从类型选项中选择reCAPTCHA v3，然后在域字段中输入网站的域。
 注册网站后，您将获得该网站的站点密钥和秘密密钥。
-![reCAPTCHA 站点详细信息的屏幕截图，包括站点密钥和密钥](images/screenshot-recaptcha-2-1024x355.webp)
+![reCAPTCHA 站点详细信息的屏幕截图，包括站点密钥和密钥](/_images/screenshot-recaptcha-2-1024x355.webp)
 
 网站详情
 
 接下来，移至 WordPress 管理屏幕并打开联系人 > 集成菜单页面。
-![集成菜单页面的屏幕截图](images/screenshot-recaptcha-3-1024x608.webp)
+![集成菜单页面的屏幕截图](/_images/screenshot-recaptcha-3-1024x608.webp)
 
 集成菜单页面
 
 您将在那里看到一个名为reCAPTCHA的框。单击框中的设置集成。它将显示输入字段Site Key和Secret Key。将您在上一步中收到的两个密钥复制粘贴到字段中，然后点击保存更改。
-![输入 API 密钥后集成页面的屏幕截图](images/screenshot-recaptcha-4-1024x622.webp)
+![输入 API 密钥后集成页面的屏幕截图](/_images/screenshot-recaptcha-4-1024x622.webp)
 
 输入 API 密钥
 

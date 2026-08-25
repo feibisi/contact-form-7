@@ -12,7 +12,7 @@ source:
 ---
 
 **披露：这篇文章的作者是 Sendinblue 的附属机构，这意味着如果您决定通过插件作者的链接进行购买，插件作者将获得佣金，您无需支付任何费用。**
-[![Sendinblue 标志](images/5cf83d25b40c6.webp)](https://www.sendinblue.com/?tap_a=50905-b26a4f&tap_s=1031580-b1bb1d)
+[![Sendinblue 标志](/_images/5cf83d25b40c6.webp)](https://www.sendinblue.com/?tap_a=50905-b26a4f&tap_s=1031580-b1bb1d)
  
 在欧洲领先的 CRM 和电子邮件营销平台[Sendinblue](https://www.sendinblue.com/?tap_a=30591-fb13f0&tap_s=1031580-b1bb1d)上存储和组织您的联系人，同时保护用户隐私。Sendinblue 提供无限的联系方式和高级营销功能。
 
@@ -25,13 +25,13 @@ source:
 
 此集成模块使用 Sendinblue API (v3)。要访问 API，您需要一个 Sendinblue 帐户。如果您还没有，请先[创建一个免费帐户](https://www.sendinblue.com/pricing/?tap_a=30591-fb13f0&tap_s=1031580-b1bb1d)。您可以随时升级帐户。
 创建帐户后，登录 Sendinblue 仪表板并导航到[SMTP & API](https://account.sendinblue.com/advanced/api?tap_a=30591-fb13f0&tap_s=1031580-b1bb1d)页面。你会在那里找到你的 v3 API 密钥。这个密钥在下一步中使用，所以现在复制它。
-![“SMTP & API”页面的屏幕截图](images/cf7-screenshot-5.webp)
+![“SMTP & API”页面的屏幕截图](/_images/cf7-screenshot-5.webp)
 
 “SMTP & API”页面的屏幕截图
 
  
 然后打开一个新的浏览器选项卡并登录到您的 WordPress 仪表板。导航到联系人 > 集成菜单页面，然后单击Sendinblue 框中的设置集成。您会在那里找到一个输入字段。将 API 密钥粘贴到该字段中，然后单击Save changes。
-![集成页面的屏幕截图](images/cf7-screenshot-6.webp)
+![集成页面的屏幕截图](/_images/cf7-screenshot-6.webp)
 
 集成页面的屏幕截图
 
@@ -41,7 +41,7 @@ source:
 #### 设置您的联系表格
 
 激活 Sendinblue API 后，您将在[联系表单编辑器屏幕中](https://contactform7.com/admin-screen/)找到一个新创建的选项卡。使用这个Sendinblue选项卡面板，您可以控制这个集成模块的两个主要功能：联系人列表和欢迎电子邮件。
-![Sendinblue 选项卡面板的屏幕截图](images/cf7-screenshot-7.webp)
+![Sendinblue 选项卡面板的屏幕截图](/_images/cf7-screenshot-7.webp)
 
 Sendinblue 选项卡面板的屏幕截图
 

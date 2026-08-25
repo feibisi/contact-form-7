@@ -22,12 +22,12 @@ Jetpack是一种流行的插件，可让您在自托管的 WordPress 站点上�
 您可以在 Jetpack 的管理屏幕上停用特定功能，但该过程令人困惑。请参阅以下步骤。
 
 1. 打开 Jetpack 菜单
-   ![打开 Jetpack 菜单](images/A1TpAzDqUwPtc7Yd.webp)
+   ![打开 Jetpack 菜单](/_images/A1TpAzDqUwPtc7Yd.webp)
 2. 单击“联系表单”窗格中的“了解更多”，
-   ![点击了解更多](images/EOmtDxBqkjZlSp7p.webp)
+   ![点击了解更多](/_images/EOmtDxBqkjZlSp7p.webp)
    然后出现“停用”按钮
 3. 点击“停用”
-   ![单击停用](images/4hd8dNjx7zQSJS7M.webp)
+   ![单击停用](/_images/4hd8dNjx7zQSJS7M.webp)
 
 #### 使用新的简码
 

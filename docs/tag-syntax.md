@@ -5,6 +5,7 @@ post_name: tag-syntax
 lang: zh
 taxonomy:
   category: [contact-form-7]
+  post_tag: [cf7-form]
 source:
   blog_id: 66
   post_id: 14
@@ -17,7 +18,7 @@ source:
 #### 表单标签语法[#表单标签语法](#form_tag)
 
 表单模板中的标签 (form-tag) 将被替换为 HTML 代码段，该代码段在呈现表单时表示输入字段。表单标签的组件可以分为四部分：类型、名称、选项和值。
-![表单标签示例](images/KVF6kfjIN25QD3hG-97B58.webp)
+![表单标签示例](/_images/KVF6kfjIN25QD3hG-97B58.webp)
 类型是最重要的因素，因为它定义了将替换自己的 HTML 元素的类型，以及期望通过它的输入类型。
 名称用于标识输入字段。大多数表单标签都有一个名称，但也有例外。
 选项指定行为和外观的细节。选项是可选的。
@@ -38,4 +39,4 @@ source:
 #### 邮件标签语法[#邮件标签语法](#mail_tag)
 
 邮件模板 (mail-tag) 中的标签要简单得多。邮件标签中只有一个词。在大多数情况下，这个词对应一个表单标签的名称，它会被通过它输入的表单替换。
-![邮件标签示例](images/rk2eCO6dwYpcHDwv-97B58.webp)
+![邮件标签示例](/_images/rk2eCO6dwYpcHDwv-97B58.webp)

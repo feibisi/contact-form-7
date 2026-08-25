@@ -5,6 +5,7 @@ post_name: best-practice-to-set-up-mail
 lang: en
 taxonomy:
   category: [contact-form-7]
+  post_tag: [cf7-mail]
 source:
   blog_id: 66
   post_id: 55

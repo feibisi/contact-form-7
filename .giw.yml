@@ -1,0 +1,6 @@
+folder: docs
+post_type: post
+category: contact-form-7
+post_author: 1
+content_template: "%%content%%"
+branch: main

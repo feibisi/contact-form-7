@@ -5,6 +5,7 @@ post_name: setting-up-mail
 lang: zh
 taxonomy:
   category: [contact-form-7]
+  post_tag: [cf7-mail]
 source:
   blog_id: 66
   post_id: 16
@@ -13,7 +14,7 @@ source:
 
 您可以非常灵活地编辑电子邮件模板。不仅是邮件正文，您还可以编辑邮件标题字段。如果需要，您甚至可以在消息中使用 HTML。
 您可以在“[邮件”选项卡面板](https://contactform7.com/admin-screen/)中编辑电子邮件模板。
-![邮件选项卡的屏幕截图](images/editor-screen-mail-tab.webp)
+![邮件选项卡的屏幕截图](/_images/editor-screen-mail-tab.webp)
 
 邮件标签面板
 

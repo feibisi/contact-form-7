@@ -35,7 +35,7 @@ Contact Form 7 的 Stripe 集成模块允许您将信用卡支付小工具添加
 #### 设置您的联系表格[#设置您的联系表格](#setting-up-your-contact-forms)
 
 与 API 建立连接后，下一步是通过为 Stripe 支付小工具添加[表单标签](https://contactform7.com/tag-syntax/#form_tag)来设置联系表单。
-![Stripe 支付小部件的屏幕截图](images/cf7-screenshot-1.webp)
+![Stripe 支付小部件的屏幕截图](/_images/cf7-screenshot-1.webp)
 
 Stripe 支付小部件的屏幕截图
 

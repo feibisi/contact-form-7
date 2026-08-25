@@ -25,48 +25,48 @@ Constant Contact 集成模块允许您将通过您的联系表格收集的联系
 此集成模块使用 Constant Contact V3 API。要从您的 WordPress 网站开始使用 API，您首先需要注册一个应用程序以获取稍后将使用的 API 密钥和应用程序机密。
 要注册应用程序，请移至[app.constantcontact.com 上](https://constant-contact.evyy.net/c/1293104/518422/3411)的“[我的应用程序”页面，](https://constant-contact.evyy.net/c/1293104/518422/3411)然后单击右上角的“新建应用程序”按钮。
 系统会要求您提供应用程序名称。您可以随时更改名称，所以暂时将其命名为“Contact Form 7 Integration for (your site title) ”。
-![Constant Contact 新应用模式的截图](images/screenshot-constant-contact-new-app-1024x544.webp)
+![Constant Contact 新应用模式的截图](/_images/screenshot-constant-contact-new-app-1024x544.webp)
 
 新建应用程序模式对话框
 
 单击保存，然后您将被定向到详细信息页面。
-![详情页面截图](images/screenshot-constant-contact-app-details-1024x518.webp)
+![详情页面截图](/_images/screenshot-constant-contact-app-details-1024x518.webp)
 
 详情页面
 
 在详细信息页面上，您将在第一个字段中找到API 密钥。单击API Key字段旁边的Generate Secret按钮以生成应用程序密钥。复制 API 密钥和应用程序机密，因为您将在下一步中使用它们。
-![App Secret 模态对话框的屏幕截图](images/screenshot-constant-contact-app-secret-1024x530.webp)
+![App Secret 模态对话框的屏幕截图](/_images/screenshot-constant-contact-app-secret-1024x530.webp)
 
 App Secret 模态对话框
 
 接下来，在浏览器的另一个选项卡中打开 WordPress 网站的管理屏幕。移动到Contact > Integration菜单页面，找到一个名为Constant Contact的框。
-![WordPress 管理屏幕截图（联系 > 集成菜单）](images/screenshot-constant-contact-wp-admin-screen-1024x740.webp)
+![WordPress 管理屏幕截图（联系 > 集成菜单）](/_images/screenshot-constant-contact-wp-admin-screen-1024x740.webp)
 
 联系 > 集成菜单页面
 
 单击设置集成按钮；它将显示一些输入字段。将您在上一步中复制的字符串粘贴到API Key和App Secret字段中。
-![联系人 > 集成菜单页面的屏幕截图](images/screenshot-constant-contact-integration-box-1024x768.webp)
+![联系人 > 集成菜单页面的屏幕截图](/_images/screenshot-constant-contact-integration-box-1024x768.webp)
 
 设置集成
 
 您将在两个字段下找到Redirect URI只读字段。复制此字段值并将其粘贴到[app.constantcontact.com](https://constant-contact.evyy.net/c/1293104/518422/3411)上“详细信息”页面上的“重定向 URI”字段中。
-![app.constantcontact.com 上详细信息页面的屏幕截图](images/screenshot-constant-contact-details-page-2-1024x555.webp)
+![app.constantcontact.com 上详细信息页面的屏幕截图](/_images/screenshot-constant-contact-details-page-2-1024x555.webp)
 
 粘贴重定向 URI 后的详细信息页面
 
 在“详细信息”页面上更改字段值后，单击右上角的“保存”按钮。
 现在，您几乎完成了必要的设置。返回WordPress 管理屏幕中的Contact > Integration菜单页面，然后单击Connect to the Constant Contact API按钮开始授权过程。
-![Connect to the Constant Contact API 按钮的屏幕截图](images/screenshot-constant-contact-start-auth-1024x780.webp)
+![Connect to the Constant Contact API 按钮的屏幕截图](/_images/screenshot-constant-contact-start-auth-1024x780.webp)
 
 连接到 Constant Contact API 按钮
 
 如果您已正确设置所有内容，您将被定向到 Constant Contact 登录页面（如果您尚未登录），并会被要求授权您注册的应用程序以访问您的 Constant Contact 帐户.
-![授权屏幕截图](images/screenshot-constant-contact-oauth2-1024x827.webp)
+![授权屏幕截图](/_images/screenshot-constant-contact-oauth2-1024x827.webp)
 
 授权画面
 
 之后，您将被重定向回 WordPress，并发现框的边框颜色已更改为蓝色。蓝色边框表示已成功创建与 API 的连接。
-![授权后的Constant Contact Integration框截图](images/screenshot-constant-contact-auth-completed-1024x757.webp)
+![授权后的Constant Contact Integration框截图](/_images/screenshot-constant-contact-auth-completed-1024x757.webp)
 
 授权完成
 
@@ -116,12 +116,12 @@ Contact Form 7 使用以下基于名称的映射表来确定输入字段和联�
 #### 指定联系人列表[#指定联系人列表](#contact-lists)
 
 Constant Contact 允许您将收集到的联系人数据分组到联系人列表（也称为“电子邮件列表”或简称“列表”）中。
-![描述如何管理联系人列表的 Constant Contact 仪表板的屏幕截图。](images/cf7-screenshot-2.webp)
+![描述如何管理联系人列表的 Constant Contact 仪表板的屏幕截图。](/_images/cf7-screenshot-2.webp)
 
 常联系列表管理页面
 
 Contact Form 7 的 Constant Contact Integration 支持为通过您的联系表格收集的新联系人指定联系人列表。
 如果您还没有联系人列表，请转至“ [Constant Contact”仪表板](https://app.constantcontact.com/pages/contacts/ui#lists)并尝试创建您的第一个列表。然后，返回 WordPress 管理屏幕。在[联系表单编辑器屏幕中](https://contactform7.com/admin-screen/)，您会发现在那里添加了Constant Contact选项卡面板。在此选项卡面板中，如果您想通过此联系人表单向联系人列表添加新联系人，请选中联系人列表复选框，然后选择联系人列表。
-![Constant Contact 选项卡面板的屏幕截图](images/cf7-screenshot-3.webp)
+![Constant Contact 选项卡面板的屏幕截图](/_images/cf7-screenshot-3.webp)
 
 恒定接触选项卡面板

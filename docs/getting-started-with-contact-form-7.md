@@ -5,6 +5,7 @@ post_name: getting-started-with-contact-form-7
 lang: zh
 taxonomy:
   category: [contact-form-7]
+  post_tag: [cf7-start]
 source:
   blog_id: 66
   post_id: 12
@@ -16,7 +17,7 @@ source:
 #### 显示表格
 
 让我们从在您的页面上显示一个表单开始。首先，打开WordPress 管理屏幕上的联系 > 联系表单菜单。您可以在那里管理多个联系表格。
-![联系表 7 的管理屏幕截图](images/FnqQMMdp5w2u7FIE-8D451.webp)
+![联系表 7 的管理屏幕截图](/_images/FnqQMMdp5w2u7FIE-8D451.webp)
  
 安装 Contact Form 7 插件后，您将看到一个名为“Contact form 1”的默认表单，以及如下代码：
 
@@ -26,7 +27,7 @@ source:
 
 复制此代码。然后，打开您希望在其中放置联系表格的页面（页面 > 所有页面）的编辑菜单。一种流行的做法是为联系表单页面创建一个名为“Contact”的页面。将您复制的代码粘贴到页面内容中。
 联系表格 7 5.3及更高版本支持块编辑器的联系表格选择器块。此块允许您简单地从您定义的联系表格列表中选择一个联系表格，而不是复制和粘贴短代码。
-![联系表单选择器块的屏幕截图](images/cf7-screenshot-4.webp)
+![联系表单选择器块的屏幕截图](/_images/cf7-screenshot-4.webp)
 
 联系表单选择器块的屏幕截图
 

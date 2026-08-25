@@ -133,7 +133,7 @@ Contact Form 7 提供了几种类型的[表单标签](https://contactform7.com/t
 #### 演示
 
 注意：这是一个演示。这种形式实际上不发送邮件。
-![](images/Screenshot2021-12-27-14.29.46.webp)
+![](/_images/Screenshot2021-12-27-14.29.46.webp)
  
 查看上述表格的来源：
 
